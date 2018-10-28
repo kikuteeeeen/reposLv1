@@ -3,3 +3,5 @@ a.txtなんです。
 
 追記
 b.txtではないんですって。
+
+colaboratorのactivemiが追記してみました。
